@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color-select div{
+    background: rgb(6, 147, 207);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.color-select #rojo {
+    background: rgb(207, 6, 23);
+}
+.color-select #verde {
+    background-color: green;
+}
